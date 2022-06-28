@@ -1,2 +1,5 @@
 # BotEconom-DiscordJSv13
-Economía bot
+npm init --yes
+npm install discord.js
+npm install sqlite3
+Clonar este repositorio
