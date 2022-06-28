@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "discord.js": "^13.7.0",
+    "foreach": "^2.0.6",
+    "python-shell": "^3.0.1",
+    "sqlite": "^4.1.1",
+    "sqlite3": "^5.0.8"
+  }
+}
